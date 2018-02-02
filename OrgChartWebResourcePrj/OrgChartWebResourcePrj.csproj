@@ -43,6 +43,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ocdev_orgchart.html" />
+    <Content Include="ocdev_orgchartOpener.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
